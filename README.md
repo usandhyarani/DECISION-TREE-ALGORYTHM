@@ -11,8 +11,13 @@ This rpository demonstrates the use of decision tree for classification using IR
 ## overview
 This project showcases the implementation of decision tree algorithm
 
-## setup and installation
+## prerequisite
 
 -Python 3.9
 -Basic understanding of ML topics
 -using colab experience
+
+## setup and installation
+1.clone the repo
+git clone
+2.need to install required libraries using requireds.txt
