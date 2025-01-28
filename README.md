@@ -1,4 +1,4 @@
-# DECISION-TREE-ALGORYTHM
+# DECISION-TREE-ALGORITHM
 This rpository demonstrates the use of decision tree for classification using IRIS data sample
 ## Table of contents
 1.[Overview](#overview)
