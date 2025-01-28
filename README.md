@@ -20,4 +20,4 @@ This project showcases the implementation of decision tree algorithm
 ## setup and installation
 1.clone the repo
 git clone
-2.need to install required libraries using requireds.txt
+2.need to install required libraries using requirements.txt
